@@ -1,0 +1,8 @@
+[Desktop Entry]
+_Name=Jpgcomment
+_Comment=Jpgcomment application
+Categories=GNOME;Utility;
+Exec=jpgcomment
+Icon=/usr/share/jpgcomment/media/jpgcomment.svg
+Terminal=false
+Type=Application
